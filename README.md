@@ -2,7 +2,7 @@
  
 Original authors have uploaded their code here https://github.com/vlawhern/arl-eegmodels
 
-EEGNet code
+## EEGNet code
 
 https://github.com/vlawhern/arl-eegmodels/tree/master
 
