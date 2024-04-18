@@ -24,6 +24,11 @@ To run the *.ipynb script, you will alse need
 - scikit-learn >= 1.2.2 (verifed)
 - matplotlib >= 3.7.1 (verifed)
 
+# Models Implemented
+EEGNet [[1]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c). Both the original model and the revised model are implemented.
+DeepConvNet [[2]](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23730)
+ShallowConvNet [[2]](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23730)
+
 
 ## Original papers
 

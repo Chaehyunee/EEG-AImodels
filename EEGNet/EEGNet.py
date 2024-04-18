@@ -9,7 +9,7 @@ Requirements:
     (2) pytorch >= 2.0.0 (verifed)
 
 
-To run the EEG/MEG ERP classification sample script, you will also need
+To run the EEG classification sample script, you will also need
 
     (1) scikit-learn >= 1.2.2
     (2) matplotlib >= 3.7.1
