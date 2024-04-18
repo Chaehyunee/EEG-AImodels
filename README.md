@@ -2,9 +2,8 @@
  
 Original authors have uploaded their code here https://github.com/vlawhern/arl-eegmodels
 
-## EEGNet code
+## Original papers
 
-https://github.com/vlawhern/arl-eegmodels/tree/master
 
 EEGNet paper : https://iopscience.iop.org/article/10.1088/1741-2552/aace8c
 
